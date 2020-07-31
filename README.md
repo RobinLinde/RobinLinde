@@ -26,6 +26,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EqualStreetNames Update](https://rlin.eu/2020/07/18/equalstreetnames-update.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
