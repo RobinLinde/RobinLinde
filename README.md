@@ -33,6 +33,7 @@
 
 <img align="left" alt="robinlinde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robinlinde&show_icons=true&hide_border=true" />
 <img align="left" alt="robinlinde's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinlinde&layout=compact&hide_border=true" />
+<img align="left" alt="robinlinde's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=robinlinde&layout=compact&hide_border=true" />
 
 [website]: https://rlin.eu/
 [twitter]: https://twitter.com/linde_robin
