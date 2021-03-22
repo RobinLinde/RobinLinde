@@ -1,39 +1,20 @@
-### Hi there, I'm Robin
+# Hi
 
-### Connect with me:
+I'm Robin, and welcome to my GitHub profile
 
-[<img align="left" alt="rlin.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linde_robin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+Apart from GitHub you can also find me on other places:
 
-<br />
+* [My website](https://rlin.eu)
+* [Twitter](https://twitter.com/linde_robin)
 
-### Languages and Tools:
-
-<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<br />
-<br />
+For more information about the languages I'm familiar with and other skills I have you can take a look at the rest of my profile or the [about page on my website](https://rlin.eu/about/).
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [EqualStreetNames Update](https://rlin.eu/2020/07/18/equalstreetnames-update.html)
-<!-- BLOG-POST-LIST:END -->
+Here is a short summary of my coding-related stats.
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robinlinde&count_private=true&show_icons=true&theme=nord)
 
-<img align="left" alt="robinlinde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robinlinde&show_icons=true&hide_border=true" />
-<img align="left" alt="robinlinde's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinlinde&layout=compact&hide_border=true" />
-<img align="left" alt="robinlinde's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=RobinLinde&layout=compact&hide_border=true" />
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RobinLinde&layout=compact&custom_title=Wakatime%20Week%20Stats&theme=nord)
 
-[website]: https://rlin.eu/
-[twitter]: https://twitter.com/linde_robin
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=robinlinde&layout=compact&langs_count=10&custom_title=GitHub%20Most%20Used%20Languages&theme=nord)
