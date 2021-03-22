@@ -19,3 +19,19 @@ Here is a short summary of my coding-related stats.
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RobinLinde&layout=compact&custom_title=Wakatime%20Week%20Stats&theme=nord)
 
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=robinlinde&layout=compact&langs_count=10&custom_title=GitHub%20Most%20Used%20Languages&theme=nord)
+
+---
+
+Here is a small list of projects I've worked on or collaborated on:
+
+[![equalstreetnames](https://github-readme-stats.vercel.app/api/pin/?username=EqualStreetNames&repo=equalstreetnames&theme=nord)](https://github.com/EqualStreetNames/equalstreetnames)
+
+[![equalstreetnames-assen](https://github-readme-stats.vercel.app/api/pin/?username=EqualStreetNames&repo=equalstreetnames-assen&theme=nord)](https://github.com/EqualStreetNames/equalstreetnames-assen)
+
+[![equalstreetnames-groningen](https://github-readme-stats.vercel.app/api/pin/?username=EqualStreetNames&repo=equalstreetnames-groningen&theme=nord)](https://github.com/EqualStreetNames/equalstreetnames-groningen)
+
+[![road-completion](https://github-readme-stats.vercel.app/api/pin/?username=osmbe&repo=road-completion&theme=nord)](https://github.com/osmbe/road-completion)
+
+[![name-suggestion-index](https://github-readme-stats.vercel.app/api/pin/?username=osmlab&repo=name-suggestion-index&theme=nord)](https://github.com/osmlab/name-suggestion-index)
+
+[![taginfo](https://github-readme-stats.vercel.app/api/pin/?username=taginfo&repo=taginfo&theme=nord)](https://github.com/taginfo/taginfo)
