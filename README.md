@@ -8,7 +8,7 @@ Apart from GitHub you can also find me on other places:
 * [Twitter](https://twitter.com/linde_robin)
 * [OpenStreetMap](https://osm.org/user/Robin%20van%20der%20Linde)
 
-For more information about the languages I'm familiar with and other skills I have you can take a look at the rest of my profile or the [about page on my website](https://rlin.eu/about/).
+For more information about the languages I'm familiar with and other skills I have you can take a look at the rest of my profile or the [about page on my website](https://rlin.eu/aboutme.html).
 
 ---
 
